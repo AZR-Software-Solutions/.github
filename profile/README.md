@@ -1,8 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="azr-lockup-dark.svg">
-    <img src="azr-lockup-light.svg" alt="AZR Software Solutions" width="420">
-  </picture>
+  <img src="azr-lockup-light.svg#gh-light-mode-only" alt="AZR Software Solutions" width="420">
+  <img src="azr-lockup-dark.svg#gh-dark-mode-only" alt="AZR Software Solutions" width="420">
 </p>
 
 <h3 align="center">Qatar's technology partner</h3>
