@@ -17,8 +17,7 @@ with practical architecture, secure delivery and audit-ready documentation.
 | Area | What it covers |
 |---|---|
 | **Cloud** | Microsoft Azure architecture, hosting and infrastructure as code |
-| **ERP (Enterprise Resource Planning)** | ERPNext implementation, configuration and support |
-| Oracle eBusiness Suite implementation, configuration and support |** | Oracle Fusion implementation, configuration and support |
+| **ERP (Enterprise Resource Planning)** | ERPNext, Oracle eBusiness Suite and Oracle Fusion implementation, configuration and support |
 | **Business applications** | Power Platform (Power Apps, Power Automate) and custom web applications |
 | **Data and reporting** | Power BI dashboards and reporting |
 | **AI (Artificial Intelligence) and automation** | Agentic AI architecture and implementation, Microsoft Foundry, workflow automation |
